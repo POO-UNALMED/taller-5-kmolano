@@ -38,6 +38,7 @@ public class TestRetornos {
 			ok = true;
 		}
 		assertTrue(ok, "Hay un problema en el metodo totalPorTipos");
+
     }
 	
 	@Test
@@ -68,4 +69,6 @@ public class TestRetornos {
 		}
 		assertTrue(ok, "Hay un problema en algun metodo movimiento de las subclases y la clase Animal");
     }
+
+
 }
